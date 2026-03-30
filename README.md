@@ -12,6 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/github/followers/hgtienthanh?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.x.com/hgthazh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hgthazh?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
 /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
